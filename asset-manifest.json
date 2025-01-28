@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/novaarcc.github.io/fCC-project-4/static/css/main.6283f1fb.css",
-    "main.js": "/novaarcc.github.io/fCC-project-4/static/js/main.1fa3fde1.js",
-    "static/js/488.4a1e0ef4.chunk.js": "/novaarcc.github.io/fCC-project-4/static/js/488.4a1e0ef4.chunk.js",
-    "index.html": "/novaarcc.github.io/fCC-project-4/index.html",
-    "main.6283f1fb.css.map": "/novaarcc.github.io/fCC-project-4/static/css/main.6283f1fb.css.map",
-    "main.1fa3fde1.js.map": "/novaarcc.github.io/fCC-project-4/static/js/main.1fa3fde1.js.map",
-    "488.4a1e0ef4.chunk.js.map": "/novaarcc.github.io/fCC-project-4/static/js/488.4a1e0ef4.chunk.js.map"
+    "main.css": "/fCC-project-4/static/css/main.6283f1fb.css",
+    "main.js": "/fCC-project-4/static/js/main.5fc52d98.js",
+    "static/js/488.4a1e0ef4.chunk.js": "/fCC-project-4/static/js/488.4a1e0ef4.chunk.js",
+    "index.html": "/fCC-project-4/index.html",
+    "main.6283f1fb.css.map": "/fCC-project-4/static/css/main.6283f1fb.css.map",
+    "main.5fc52d98.js.map": "/fCC-project-4/static/js/main.5fc52d98.js.map",
+    "488.4a1e0ef4.chunk.js.map": "/fCC-project-4/static/js/488.4a1e0ef4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6283f1fb.css",
-    "static/js/main.1fa3fde1.js"
+    "static/js/main.5fc52d98.js"
   ]
 }
